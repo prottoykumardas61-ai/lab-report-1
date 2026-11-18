@@ -88,5 +88,4 @@ This project demonstrates the practical implementation of different graph algori
 
 ---
 
-**Language:** C  
-**Project Type:** Data Structures and Algorithms
+
