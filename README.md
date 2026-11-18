@@ -1,4 +1,4 @@
-# Graph Algorithms and Network Analysis
+# Graph 
 
 ## Project Overview
 This project is developed using the C programming language to analyze a connected, undirected, weighted graph.
