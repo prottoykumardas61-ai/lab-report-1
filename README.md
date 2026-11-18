@@ -46,7 +46,6 @@ It compares different network configurations and displays the paths and their to
 ## Technologies Used
 
 - Programming Language: C
-- Compiler: GCC
 - Concepts: Graph, BFS, Dijkstra, MST, Prim, Kruskal, Union-Find
 
 ## Input Format
